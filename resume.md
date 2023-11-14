@@ -1,4 +1,4 @@
-# GitHub Teacher
+
 
 _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
@@ -26,3 +26,4 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+
